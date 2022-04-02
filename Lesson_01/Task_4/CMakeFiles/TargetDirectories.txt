@@ -1,0 +1,3 @@
+/home/lubasha/C++/Task_01/task03/CMakeFiles/task03_main.dir
+/home/lubasha/C++/Task_01/task03/CMakeFiles/edit_cache.dir
+/home/lubasha/C++/Task_01/task03/CMakeFiles/rebuild_cache.dir
